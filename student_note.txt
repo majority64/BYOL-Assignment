@@ -4,3 +4,6 @@ Submitted by: Majority Anthony
 Student ID: UG/22/5748
 
 This Week 1 submission keeps the same functionality while using a slightly different coding style.
+
+
+Week 3 upload package prepared. Final evaluator and interpreter files are included.
